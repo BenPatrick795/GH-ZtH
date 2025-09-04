@@ -1,2 +1,0 @@
-# GH-ZtH
-Initial commit
